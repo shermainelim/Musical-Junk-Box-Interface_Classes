@@ -1,0 +1,11 @@
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\obj\Debug\netcoreapp3.1\MusicalJunkBox.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\obj\Debug\netcoreapp3.1\MusicalJunkBox.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\obj\Debug\netcoreapp3.1\MusicalJunkBox.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\bin\Debug\netcoreapp3.1\MusicalJunkBox.exe
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\bin\Debug\netcoreapp3.1\MusicalJunkBox.deps.json
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\bin\Debug\netcoreapp3.1\MusicalJunkBox.runtimeconfig.json
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\bin\Debug\netcoreapp3.1\MusicalJunkBox.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\bin\Debug\netcoreapp3.1\MusicalJunkBox.dll
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\bin\Debug\netcoreapp3.1\MusicalJunkBox.pdb
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\obj\Debug\netcoreapp3.1\MusicalJunkBox.dll
+C:\Users\Shermaine\source\repos\MusicalJunkBox\MusicalJunkBox\obj\Debug\netcoreapp3.1\MusicalJunkBox.pdb
